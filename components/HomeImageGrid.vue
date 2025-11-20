@@ -11,7 +11,7 @@
           placeholder
           sizes="sm:100vw md:50vw lg:220px"
           class="absolute inset-0 h-full w-full object-cover"
-          src="/img/home/grid-01.jpg"
+          src="img/home/grid-01.jpg"
           alt="Alt text"
           format="webp"
           loading="lazy"
@@ -28,7 +28,7 @@
           placeholder
           sizes="sm:100vw md:50vw lg:220px"
           class="absolute inset-0 h-full w-full object-cover"
-          src="/img/home/grid-02.jpg"
+          src="img/home/grid-02.jpg"
           alt="Alt text"
           format="webp"
           loading="lazy"
@@ -41,7 +41,7 @@
           placeholder
           sizes="sm:100vw md:50vw lg:220px"
           class="absolute inset-0 h-full w-full object-cover"
-          src="/img/home/grid-03.jpg"
+          src="img/home/grid-03.jpg"
           alt="Alt text"
           format="webp"
           loading="lazy"
@@ -56,9 +56,9 @@
       >
         <NuxtImg
           placeholder
-          sizes="sm:100vw md:50vw lg:380px"
+          sizes="sm:100vw md:50vw lg:384px"
           class="absolute inset-0 h-full w-full object-cover"
-          src="/img/home/grid-07.jpg"
+          src="img/home/grid-03.jpg"
           alt="Alt text"
           format="webp"
           loading="lazy"
@@ -75,7 +75,7 @@
           placeholder
           sizes="sm:100vw md:50vw lg:220px"
           class="absolute inset-0 h-full w-full object-cover"
-          src="/img/home/grid-04.jpg"
+          src="img/home/grid-04.jpg"
           alt="Alt text"
           format="webp"
           loading="lazy"
@@ -88,7 +88,7 @@
           placeholder
           sizes="sm:100vw md:50vw lg:220px"
           class="absolute inset-0 h-full w-full object-cover"
-          src="/img/home/grid-05.jpg"
+          src="img/home/grid-05.jpg"
           alt="Alt text"
           format="webp"
           loading="lazy"
@@ -105,7 +105,7 @@
           placeholder
           sizes="sm:100vw md:50vw lg:220px"
           class="absolute inset-0 h-full w-full object-cover"
-          src="/img/home/grid-06.jpg"
+          src="img/home/grid-06.jpg"
           alt="Alt text"
           format="webp"
           loading="lazy"

@@ -48,6 +48,14 @@ export default defineNuxtConfig({
     },
   },
 
+  /**
+   * @nuxt/image configuration for GitHub Pages
+   */
+  image: {
+    // Ensure images work with custom baseURL
+    baseURL: '/pictures-in-bonn',
+  },
+
   imports: {
     autoImport: true
   },
