@@ -29,6 +29,7 @@ export default defineNuxtConfig({
    * App configuration including Google Fonts
    */
   app: {
+    baseURL: '/pictures-in-bonn/',
     head: {
       link: [
         {
