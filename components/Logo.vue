@@ -6,7 +6,7 @@
     <div class="rounded-full border-2 border-white dark:border-zinc-400 shadow-md group-hover:shadow-xl transition-shadow duration-100 shrink-0">
       <NuxtImg
         class="inline-block h-14 w-14 rounded-full"
-        src="img/home/Roberto.jpeg"
+        src="img/home/roberto.jpeg"
         alt="Roberto Puggioni"
         format="webp"
         width="100"
