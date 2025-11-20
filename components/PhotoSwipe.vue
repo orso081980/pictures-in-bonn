@@ -34,3 +34,19 @@ onUnmounted(() => {
     <slot />
   </div>
 </template>
+
+<style>
+/* PhotoSwipe image constraints */
+.pswp__zoom-wrap {
+  width: 100% !important;
+  height: 100% !important;
+  max-height: 70vh !important;
+}
+
+.pswp__img {
+  max-height: 70vh !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+}
+</style>

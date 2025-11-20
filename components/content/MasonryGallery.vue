@@ -6,6 +6,17 @@ type Props = {
 };
 
 defineProps<Props>();
+
+// Function to resolve image URL with baseURL
+const resolveImageUrl = (src: string) => {
+  const config = useRuntimeConfig();
+  const baseURL = config.app.baseURL || '/';
+  // If src already starts with baseURL, return as is
+  if (src.startsWith(baseURL)) return src;
+  // If src starts with '/', remove it to avoid double slashes
+  const cleanSrc = src.startsWith('/') ? src.slice(1) : src;
+  return `${baseURL}${cleanSrc}`;
+};
 </script>
 
 <template>
@@ -16,7 +27,7 @@ defineProps<Props>();
           <template #default="{ item, index }">
             <a
               class="photoswipe-item rounded-xl overflow-hidden block relative dark:bg-zinc-800 bg-zinc-200"
-              :href="(item as Image).src"
+              :href="resolveImageUrl((item as Image).src)"
               data-cropped="true"
               :data-pswp-width="(item as Image).width"
               :data-pswp-height="(item as Image).height"

@@ -49,6 +49,16 @@ export default defineNuxtConfig({
   },
 
   /**
+   * Nitro configuration for static hosting
+   */
+  nitro: {
+    prerender: {
+      // Ensure trailing slash consistency
+      autoSubfolderIndex: false,
+    },
+  },
+
+  /**
    * @nuxt/image configuration for GitHub Pages
    */
   image: {
