@@ -10,7 +10,7 @@ cover:
 
 ::page-header{title="As above, so below"}
 #description
-Give me your description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquet nisl nis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquet nisl nis.
 ::
 
 ::masonry-gallery
