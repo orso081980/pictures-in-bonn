@@ -57,7 +57,7 @@ image7:
 firstname: Roberto 
 lastname: Puggioni
 photo:
-  src: /img/home/roberto.jpeg
+  src: /img/home/roberto-2.jpg
   alt: Roberto Puggioni
   width: 1600
   height: 2400
@@ -82,9 +82,9 @@ Seit ich 2017 nach Bonn gekommen bin, arbeite ich als Dozent für Italienisch. I
 
 ::SectionCtaHireMe{.mt-16}
 #title
-Questions or collaboration ideas?
+Fragen oder Kooperationsideen?
 #description
-I would love to hear from you! Whether you have __questions__ about my work, have __collaboration ideas__, or are interested in __hiring me__ for a project, don't hesitate to reach out.
+Ich freue mich, von Ihnen zu hören! Ob Sie Fragen zu __meiner__ Arbeit haben, Kooperationsideen einbringen __möchten__ oder Interesse daran haben, mich für ein Projekt zu engagieren – zögern Sie nicht, mich zu kontaktieren.
 
-I usually respond within hours!
+In der Regel antworte ich innerhalb weniger Stunden!
 ::

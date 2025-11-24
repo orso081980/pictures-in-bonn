@@ -7,65 +7,7 @@ title: About me
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et nisl sit amet massa pretium iaculis in et ipsum. Etiam pellentesque eget ligula ac luctus. Vivamus ac nulla sit amet nulla cursus viverra sed id orci. Fusce sit amet malesuada nisl. Curabitur id ultricies ligula, sit amet finibus leo. Sed ac odio odio. Cras posuere dignissim ex a tempor. Donec rutrum vitae augue sed imperdiet. Nulla consectetur nisl enim, vel mollis sem auctor id. Praesent nisi dui, facilisis ut ipsum ut, accumsan pellentesque nulla. Quisque at dolor risus. Nunc quis lacus ipsum. Aenean non nulla dignissim odio ultricies varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam blandit felis ac tempus tempor. Aliquam pharetra ut libero ut porttitor.
 
-::SectionTestimonials{.max-w-2xl.mx-auto}
-#title
-## Feedback (if needed)
-#items
-:::Testimonial
----
-quote: "Working with John was an absolute pleasure. His attention to detail and creative eye for photography made our project truly stand out. He took the time to understand our vision and brought it to life in a way that exceeded our expectations. John is not only a skilled photographer but also a professional who is easy to work with and goes above and beyond to deliver outstanding results. We couldn't be happier with the final product and highly recommend John for any photography needs. Thank you, John, for your exceptional work!"
-name: Sarah Johnson
-image:
-  src: /img/home/personal-photo.webp
-  alt: Sarah Johnson
----
-:::
-:::Testimonial
----
-quote: "I had the pleasure of working with Jane on a photoshoot for my business and I couldn't be happier with the results. Her professionalism, creativity, and attention to detail were top-notch. She captured the essence of my brand and brought it to life in a way that was beyond my expectations. I highly recommend Jane for any photography needs, she is a true talent."
-name: Emily Davis
-image:
-  src: /img/home/personal-photo.webp
-  alt: Emily Davis
----
-:::
-:::Testimonial
----
-quote: "I've had the pleasure of working with John on several photography projects, and I have to say, he never ceases to amaze me with his talent and creativity. His eye for detail and ability to capture the essence of a moment is truly impressive. Not only that, but he's also a pleasure to work with - always professional, punctual, and collaborative. I highly recommend John for any photography needs - you won't be disappointed!"
-name: John Doe
-image:
-  src: /img/home/personal-photo.webp
-  alt: John Doe
----
-:::
-:::Testimonial
----
-quote: "I have had the privilege of working with Michael on multiple projects and I am consistently blown away by his work. His ability to capture the emotion and essence of his subjects is truly impressive. He has a gift for making people feel comfortable and bringing out their best selves in front of the camera. I highly recommend Michael for any photography needs, he is a true professional."
-name: David Nguyen
-image:
-  src: /img/home/personal-photo.webp
-  alt: David Nguyen
----
-:::
-:::Testimonial
----
-quote: "I recently worked with Sarah on a family photoshoot and I was blown away by her talent and professionalism. She made us feel comfortable in front of the camera and captured the most beautiful moments that we will cherish forever. Her attention to detail and ability to tell a story through her photography is truly remarkable. I highly recommend Sarah for any photography needs, she is a true gem."
-name: Lisa Johnson
-image:
-  src: /img/home/personal-photo.webp
-  alt: Lisa Johnson
----
-:::
-:::Testimonial
----
-quote: "I recently worked with Mark on a photoshoot for my business and I was extremely impressed with his work. He has a keen eye for detail and knows how to bring out the best in his subjects. His creativity and professionalism were second to none."
-name: Jessica Lee.
-image:
-  src: /img/home/personal-photo.webp
-  alt: Jessica Lee.
----
-:::
-::
+
 
 ::SectionFaq{.max-w-2xl.mx-auto}
 #title
