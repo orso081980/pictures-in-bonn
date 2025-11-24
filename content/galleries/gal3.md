@@ -3,9 +3,9 @@ title: "For free"
 layout: default
 cover: 
   src: "/img/gal/for-free/unnamed-1.jpg"
-  alt: "clq2tt0kgfcfgsc3cjbj.webp"
-  width: 1600
-  height: 1067
+  alt: "look at you!"
+  width: 516
+  height: 808
 ---
 
 ::page-header{title="Art from art"}
@@ -16,32 +16,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel t
 ---
   images:
     - src: "/img/gal/for-free/unnamed-1.jpg"
-      alt: "clq2tt0kgfcfgsc3cjbj.webp"
+      alt: "look at you!"
       width: 516
       height: 808
       caption: look at you! - 9x14, Orwo BN 111 - Cagliari 07.24
     - src: "/img/gal/for-free/unnamed-6.jpg"
-      alt: "ihi17ktit1rx8aihsx2u.webp"
+      alt: "Horny"
       width: 1179
       height: 1493
       caption: Horny - 9x14, Orwo BN 111 - Cagliari 07.24
     - src: "/img/gal/for-free/unnamed-2.jpg"
-      alt: "ehveik701np2hvrrqphy.webp"
+      alt: "He Was Barefoot"
       width: 516
       height: 807
       caption: 2 He Was Barefoot - 10x15, Orwo BN 117 - Bosa 08.24
     - src: "/img/gal/for-free/unnamed-5.jpg"
-      alt: "ifagmaw1y47kw9ssv3rf.webp"
+      alt: "Mal Bosa II"
       width: 1183
       height: 1493
       caption: 2 Mal Bosa II - 10x15, Orwo BN 117 - Bosa 08.24
     - src: "/img/gal/for-free/unnamed-3.jpg"
-      alt: "f4liwsc7yllxe2yvwov2.webp"
+      alt: "The stairs"
       width: 835
       height: 616
-      caption: The stairs- 20x25, Baryt Fomabrom- Stelzenberg 06.25
+      caption: The stairs - 20x25, Baryt Fomabrom- Stelzenberg 06.25
     - src: "/img/gal/for-free/unnamed-4.jpg"
-      alt: "fbtofdmmjm5xhjj3mzxs.webp"
+      alt: "Master ladder"
       width: 839
       height: 619
       caption: Master ladder - 20x25, Baryt Fomabrom - Bonn 06.25
