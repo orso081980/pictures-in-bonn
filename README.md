@@ -26,6 +26,8 @@ Qui sotto puoi scrivere una breve descrizione della galleria (testo libero).
 
 Se il sito usa uno shortcode per le gallerie (ad esempio `masonry-gallery`), una sezione immagini ben formattata potrebbe essere:
 
+
+```yaml
 ::masonry-gallery
 images:
   - src: "/img/gal/cable/unnamed-6.jpg"
@@ -39,6 +41,7 @@ images:
     height: 900
     caption: "Descrizione foto 2"
 :::
+```
 
 Annotazioni importanti sull'esempio:
 - `src`: percorso dell'immagine, che deve corrispondere al file dentro `public/img/...` (nell'esempio `/img/gal/cable/...`).
