@@ -11,8 +11,10 @@ Questo documento spiega passo passo, in modo semplice e senza termini tecnici, c
 
 Esempio consigliato di file di una galleria (formato pulito)
 
-Inserisci sempre il front matter YAML all'inizio del file tra due righe `---`. Esempio:
 
+Inserisci sempre il front matter YAML all'inizio del file tra due righe `---`. Esempio (visualizzato come codice):
+
+```yaml
 ---
 title: "Kabelleitung"
 layout: default
@@ -22,6 +24,7 @@ cover:
   width: 1041
   height: 1625
 ---
+```
 
 Qui sotto puoi scrivere una breve descrizione della galleria (testo libero).
 
