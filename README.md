@@ -9,10 +9,6 @@ Questo documento spiega passo passo, in modo semplice e senza termini tecnici, c
 **1) Che cos'è un file Markdown (file .md)?**
 - È un file di testo semplice usato per scrivere pagine: titolo, testo descrittivo e una parte iniziale chiamata "front matter" (una piccola lista di informazioni). Non serve sapere programmare per cambiare questi file: aprili e modifica il testo.
 
-Esempio consigliato di file di una galleria (formato pulito)
-
-
-Inserisci sempre il front matter YAML all'inizio del file tra due righe `---`. Esempio (visualizzato come codice):
 
 ```yaml
 ---
