@@ -36,7 +36,7 @@ defineProps({
         <div class="lg:absolute aspect-square lg:aspect-[2/3] flex-none overflow-hidden bg-zinc-100 dark:bg-zinc-800 w-32 lg:w-72 rounded-2xl rotate-3">
           <NuxtImg
             placeholder
-            :src="photo?.src ? photo.src : 'img/roberto-2.jpg'"
+            :src="photo?.src ? photo.src : 'img/roberto.jpeg'"
             :alt="photo?.alt ? photo.alt : 'Roberto Puggioni'"
             :width="photo?.width ? photo.width : 1"
             :height="photo?.height ? photo.height : 1"
