@@ -57,7 +57,7 @@ image7:
 firstname: Roberto 
 lastname: Puggioni
 photo:
-  src: /img/home/roberto.jpgeg
+  src: /img/home/roberto.jpeg
   alt: Roberto Puggioni
   width: 1600
   height: 2400
